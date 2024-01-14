@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" target-language="de" datatype="plaintext"
+		  original="EXT:ot_accessiblecontent/Resources/Private/Language/locallang_db.xlf" date="2023-07-14T18:40:24Z"
+		  product-name="ot_accessiblecontent">
+		<header/>
+		<body>
+			<trans-unit id="header_style" resname="header_style" approved="yes">
+				<source>Style</source>
+				<target>Darstellung</target>
+			</trans-unit>
+			<trans-unit id="header_style.groupDisplay" resname="header_style.groupDisplay" approved="yes">
+				<source>Display Classes</source>
+				<target>Display Klassen</target>
+			</trans-unit>
+			<trans-unit id="header_style.groupAccessibility" resname="header_style.groupAccessibility" approved="yes">
+				<source>Accessibility</source>
+				<target>Barrierearm</target>
+			</trans-unit>
+			<trans-unit id="header_style.visuallyHidden" resname="header_style.visuallyHidden" approved="yes">
+				<source>Visually Hidden</source>
+				<target>Visuell verborgen</target>
+			</trans-unit>
+			<trans-unit id="header_style.groupHeaderColor" resname="header_style.groupHeaderColor" approved="yes">
+				<source>Header Color</source>
+				<target>Überschrift Farbe</target>
+			</trans-unit>
+			<trans-unit id="header_style.groupHeaderSizePrimaryColor" resname="header_style.groupHeaderSizePrimaryColor" approved="yes">
+				<source>Header size and primary color</source>
+				<target>Überschrift Größe und Primärfarbe</target>
+			</trans-unit>
+			<trans-unit id="header_style.groupHeader" resname="header_style.groupHeader" approved="yes">
+				<source>Header</source>
+				<target>Überschrift</target>
+			</trans-unit>
+			<trans-unit id="header_style.default" resname="header_style.default" approved="yes">
+				<source>Default</source>
+				<target>Standard</target>
+			</trans-unit>
+			<trans-unit id="header_style.description" resname="header_style.description" approved="yes">
+				<source>The visually-hidden class can be used if, for example, the hierarchy in subordinate accordions is to be output correctly.</source>
+				<target>Die Klasse visually-hidden kann verwendet werden, wenn z.B. die Hierarchie in untergeordneten Akkordeons korrekt ausgegeben werden soll.</target>
+			</trans-unit>
+			<trans-unit id="header.default" resname="header.default" approved="yes">
+				<source>Default</source>
+				<target>Standard</target>
+			</trans-unit>
+			<trans-unit id="h1" resname="h1" approved="yes">
+				<source>h1</source>
+				<target>h1</target>
+			</trans-unit>
+			<trans-unit id="h2" resname="h2" approved="yes">
+				<source>h2</source>
+				<target>h2</target>
+			</trans-unit>
+			<trans-unit id="h3" resname="h3" approved="yes">
+				<source>h3</source>
+				<target>h3</target>
+			</trans-unit>
+			<trans-unit id="h4" resname="h4" approved="yes">
+				<source>h4</source>
+				<target>h4</target>
+			</trans-unit>
+			<trans-unit id="h5" resname="h5" approved="yes">
+				<source>h5</source>
+				<target>h5</target>
+			</trans-unit>
+			<trans-unit id="h6" resname="h6" approved="yes">
+				<source>h6</source>
+				<target>h6</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

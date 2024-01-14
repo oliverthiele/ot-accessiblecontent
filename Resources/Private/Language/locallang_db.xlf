@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" target-language="de" datatype="plaintext"
+		  original="EXT:ot_accessiblecontent/Resources/Private/Language/locallang_db.xlf" date="2023-07-14T18:40:24Z"
+		  product-name="ot_accessiblecontent">
+		<header/>
+		<body>
+			<trans-unit id="header_style" resname="header_style">
+				<source>Style</source>
+			</trans-unit>
+			<trans-unit id="header_style.groupDisplay" resname="header_style.groupDisplay">
+				<source>Display Classes</source>
+			</trans-unit>
+			<trans-unit id="header_style.groupAccessibility" resname="header_style.groupAccessibility">
+				<source>Accessibility</source>
+			</trans-unit>
+			<trans-unit id="header_style.visuallyHidden" resname="header_style.visuallyHidden">
+				<source>Visually Hidden</source>
+			</trans-unit>
+			<trans-unit id="header_style.groupHeaderColor" resname="header_style.groupHeaderColor">
+				<source>Header Color</source>
+			</trans-unit>
+			<trans-unit id="header_style.groupHeaderSizePrimaryColor" resname="header_style.groupHeaderSizePrimaryColor">
+				<source>Header size and primary color</source>
+			</trans-unit>
+			<trans-unit id="header_style.groupHeader" resname="header_style.groupHeader">
+				<source>Header</source>
+			</trans-unit>
+			<trans-unit id="header_style.default" resname="header_style.default">
+				<source>Default</source>
+			</trans-unit>
+			<trans-unit id="header_style.description" resname="header_style.description">
+				<source>The visually-hidden class can be used if, for example, the hierarchy in subordinate accordions is to be output correctly.</source>
+			</trans-unit>
+			<trans-unit id="header.default" resname="header.default">
+				<source>Default</source>
+			</trans-unit>
+			<trans-unit id="h1" resname="h1">
+				<source>h1</source>
+			</trans-unit>
+			<trans-unit id="h2" resname="h2">
+				<source>h2</source>
+			</trans-unit>
+			<trans-unit id="h3" resname="h3">
+				<source>h3</source>
+			</trans-unit>
+			<trans-unit id="h4" resname="h4">
+				<source>h4</source>
+			</trans-unit>
+			<trans-unit id="h5" resname="h5">
+				<source>h5</source>
+			</trans-unit>
+			<trans-unit id="h6" resname="h6">
+				<source>h6</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

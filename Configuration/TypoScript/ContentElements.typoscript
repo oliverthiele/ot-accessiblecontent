@@ -1,0 +1,13 @@
+lib.contentElement {
+  templateRootPaths {
+    35 = EXT:ot_accessiblecontent/Resources/Private/{$projectSettings.framework.directory}/Content/Templates/
+  }
+
+  partialRootPaths {
+    35 = EXT:ot_accessiblecontent/Resources/Private/{$projectSettings.framework.directory}/Content/Partials/
+  }
+
+  layoutRootPaths {
+    35 = EXT:ot_accessiblecontent/Resources/Private/{$projectSettings.framework.directory}/Content/Layouts/
+  }
+}

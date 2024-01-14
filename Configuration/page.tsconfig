@@ -1,0 +1,12 @@
+TCEFORM {
+    tt_content {
+        header_layout {
+            altLabels.0 = LLL:EXT:ot_accessiblecontent/Resources/Private/Language/locallang_db.xlf:header.default
+            altLabels.1 = LLL:EXT:ot_accessiblecontent/Resources/Private/Language/locallang_db.xlf:h1
+            altLabels.2 = LLL:EXT:ot_accessiblecontent/Resources/Private/Language/locallang_db.xlf:h2
+            altLabels.3 = LLL:EXT:ot_accessiblecontent/Resources/Private/Language/locallang_db.xlf:h3
+            altLabels.4 = LLL:EXT:ot_accessiblecontent/Resources/Private/Language/locallang_db.xlf:h4
+            altLabels.5 = LLL:EXT:ot_accessiblecontent/Resources/Private/Language/locallang_db.xlf:h5
+        }
+    }
+}
